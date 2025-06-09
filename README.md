@@ -26,8 +26,8 @@ AW1KBUILDER is a beginner-friendly OpenWrt build script designed for quick deplo
 
 ## Default WiFi Settings
 
-- **SSID:** `AW1K` / `AW1K 5G`
-- **Password:** `nialwrt123`
+- **SSID:** `Rumah_5Ghz` / `Rumah_2Ghz`
+- **Password:** `1234567890`
 
 ## Requirements
 
