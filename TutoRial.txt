@@ -1,0 +1,7 @@
+Tuto Compile
+
+1 - ./scripts/feeds update -a && ./scripts/feeds install -a
+2 - make defconfig V=s
+3 - make menuconfig #kalau nak ubah preset
+4 - make download -j$(nproc) V=s
+5 - make -j$(nproc) V=s
