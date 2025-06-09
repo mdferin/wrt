@@ -23,7 +23,7 @@ main_menu() {
     echo -e "${BOLD_BLUE}BUILD MENU:${RESET}"
 
     distro="immortalwrt"
-    repo="https://github.com/immortalwrt/immortalwrt"
+    repo="https://github.com/immortalwrt/immortalwrt.git"
     preset_repo="https://github.com/mdferin/wrt.git"
     preset_folder="wrt"
 
